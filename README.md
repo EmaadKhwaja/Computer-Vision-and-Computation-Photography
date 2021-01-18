@@ -3,6 +3,7 @@
 ### Python 3.7
 
 Final project pages for CS294 projects at UC Berkeley
+Explicit code has been excluded in compliance with university copyright policy.
 
 [Project 1: Images of the Russian Empire -- colorizing the Prokudin-Gorskii photo collection](https://emaadkhwaja.github.io/CS294/emaad_khwaja_proj1_report/index.html)
 

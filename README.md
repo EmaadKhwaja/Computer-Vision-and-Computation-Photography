@@ -1,5 +1,6 @@
-# CS294
-Intro to Computer Vision and Computation Photography
+# Intro to Computer Vision and Computation Photography
+## CS294-26
+### Python 3.7
 
 Final project pages for CS294 projects at UC Berkeley
 

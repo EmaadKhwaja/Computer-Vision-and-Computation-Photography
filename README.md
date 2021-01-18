@@ -13,7 +13,7 @@ Final project pages for CS294 projects at UC Berkeley
 
 [Project 3: Face Morphing and Modelling a Photo Collection](https://emaadkhwaja.github.io/CS294/emaad_khwaja_proj_3/index.html)
 
-![](images/movie2.gif)
+![](images/movie.gif)
 
 [Project 4: Face Keypoint Detection with Neural Networks](https://emaadkhwaja.github.io/CS294/emaad_khwaja_proj_4/index.html)
 

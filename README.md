@@ -25,13 +25,13 @@ Explicit code has been excluded in compliance with university copyright policy.
 
 ![](images/movie.gif)
 
-[Face Keypoint Detection with Neural Networks]((https://emaadkhwaja.github.io/Computer-Vision-and-Computation-Photography/emaad_khwaja_proj_4/index.html)
+[Face Keypoint Detection with Neural Networks](https://emaadkhwaja.github.io/Computer-Vision-and-Computation-Photography/emaad_khwaja_proj_4/index.html)
 
 "In this project, you will learn how to use neural networks to automatically detect facial keypoints -- no more clicking!"
 
 ![](images/keypoint.jpg)
 
-[(Auto)stitching and photo mosaics]((https://emaadkhwaja.github.io/Computer-Vision-and-Computation-Photography/emaad_khwaja_proj_5/index.html)
+[(Auto)stitching and photo mosaics](https://emaadkhwaja.github.io/Computer-Vision-and-Computation-Photography/emaad_khwaja_proj_5/index.html)
 
 "This project is all about stitching together many photographs to create larger composite images... In the first part, you will capture source photographs, define correspondences between them, and then warp and composite them. A detailed description of the requirements and scoring is given here. In the second part, you will automate the correspondence-finding portion of Part 1 so that you can create the panoramas automatically. A detailed description of the requirements and scoring for this part are given here."
 

@@ -4,13 +4,13 @@
 Final project pages for [CS294-26](https://inst.eecs.berkeley.edu/~cs194-26/fa20/) projects at UC Berkeley
 Explicit code has been excluded in compliance with university copyright policy.
 
-## [Images of the Russian Empire -- colorizing the Prokudin-Gorskii photo collection](https://emaadkhwaja.github.io/Computer-Vision-and-Computational-Photography/emaad_khwaja_proj1_report/index.html)
+## [Images of the Russian Empire -- colorizing the Prokudin-Gorskii photo collection](https://emaadkhwaja.github.io/Computer-Vision-and-Computation-Photography/emaad_khwaja_proj1_report/index.html)
 
 "The goal of this assignment is to take the digitized Prokudin-Gorskii glass plate images and, using image processing techniques, automatically produce a color image with as few visual artifacts as possible. In order to do this, you will need to extract the three color channel images, place them on top of each other, and align them so that they form a single RGB color image."
 
 ![](https://emaadkhwaja.github.io/Computer-Vision-and-Computation-Photography/emaad_khwaja_proj1_report/images/emir.jpg)
 
-## [Fun with Filters and Frequencies](https://emaadkhwaja.github.io/Computer-Vision-and-Computational-Photography/emaad_khwaja_proj_2/index.html)
+## [Fun with Filters and Frequencies](https://emaadkhwaja.github.io/Computer-Vision-and-Computation-Photography/emaad_khwaja_proj_2/index.html)
 
 "The goal of this part of the assignment is to blend two images seamlessly using a multi resolution blending as described in the 1983 paper by Burt and Adelson. An image spline is a smooth seam joining two image together by gently distorting them. Multiresolution blending computes a gentle seam between the two images seperately at each band of image frequencies, resulting in a much smoother seam."
 
